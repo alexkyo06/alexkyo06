@@ -7,7 +7,7 @@ I'm a developer passionate about Python, web development, and exploring new tech
 - 👯 I’m looking to collaborate on interesting open-source Python projects.
 - 🤔 I’m looking for help with advanced frontend frameworks like React or Vue.
 - 💬 Ask me about **Flask, Python, and VPS deployment**.
-- 📫 How to reach me: `your-email@example.com`
+- 📫 How to reach me: `alexkyo@gmail.com`
 - 😄 Pronouns: He/Him
 
 ---
