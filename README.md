@@ -1,21 +1,26 @@
-### Hi there 👋, I'm Alex!
+### Hi there 👋, I'm Alex · 许炜
 
-I'm a developer passionate about Python, web development, and exploring new technologies. Welcome to my GitHub profile!
+上海 / Shanghai. Building things at the intersection of AI toolchains, self-hosted infra, and automation.  
+在 AI 工具链、自建基础设施和自动化脚本的交叉地带折腾各种东西。
 
-- 🔭 I’m currently working on a **Trading Bot Dashboard**.
-- 🌱 I’m currently learning more about **Data Visualization and Real-time Services**.
-- 👯 I’m looking to collaborate on interesting open-source Python projects.
-- 🤔 I’m looking for help with advanced frontend frameworks like React or Vue.
-- 💬 Ask me about **Flask, Python, and VPS deployment**.
-- 📫 How to reach me: `alexkyo@gmail.com`
-- 😄 Pronouns: He/Him
+- 🤖 Heavy Claude & Google AI Studio user — building personal AI workflows daily  
+  重度 Claude & Google AI Studio 用户，持续搭建个人 AI 工作流
+- 🖥️ Self-hosted infra: VPS × 2 + Raspberry Pi transparent proxy gateway (xray / Tailscale)  
+  自建基础设施：双 VPS + 树莓派透明代理网关
+- 📈 Crypto monitoring & daily briefing bots (Telegram)  
+  加密货币监控 & 每日简报 bot（Telegram 推送）
+- 📰 Automated news & research report pipelines (Reddit, X, yanbao)  
+  自动化新闻与研报采集流水线
+- 💼 Open to opportunities · 求职中
+- 📫 `alex@alexkyo.cc`
 
 ---
 
-#### My Skills:
+#### Skills
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
