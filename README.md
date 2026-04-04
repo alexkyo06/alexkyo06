@@ -1,22 +1,27 @@
-### Hi there 👋, I'm Alex · 许炜
+# Alex · 许炜
 
-上海 / Shanghai. Building things at the intersection of AI toolchains, self-hosted infra, and automation.  
-在 AI 工具链、自建基础设施和自动化脚本的交叉地带折腾各种东西。
+Shanghai-based builder working across AI workflows, self-hosted infrastructure, and automation.
+常驻上海，主要折腾 AI 工作流、自建基础设施和自动化系统。
 
-- 🤖 Heavy Claude & Google AI Studio user — building personal AI workflows daily  
-  重度 Claude & Google AI Studio 用户，持续搭建个人 AI 工作流
-- 🖥️ Self-hosted infra: VPS × 2 + Raspberry Pi transparent proxy gateway (xray / Tailscale)  
-  自建基础设施：双 VPS + 树莓派透明代理网关
-- 📈 Crypto monitoring & daily briefing bots (Telegram)  
-  加密货币监控 & 每日简报 bot（Telegram 推送）
-- 📰 Automated news & research report pipelines (Reddit, X, yanbao)  
-  自动化新闻与研报采集流水线
-- 💼 Open to opportunities · 求职中
-- 📫 `alex@alexkyo.cc`
+## Focus
 
----
+- Personal AI workflows with Claude, Gemini, and local tooling
+- Self-hosted infra with VPS, Raspberry Pi, xray, and Tailscale
+- News, research, and market-monitoring pipelines
+- Practical automation that saves time in day-to-day work
 
-#### Skills
+## Projects
+
+- [alex-resume](https://github.com/alexkyo06/alex-resume): bilingual resume site
+
+More projects will be cleaned up, documented, and published here over time.
+
+## Links
+
+- Resume: [alex-resume](https://github.com/alexkyo06/alex-resume)
+- Email: `alex@alexkyo.cc`
+
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
