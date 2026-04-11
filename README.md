@@ -1,14 +1,14 @@
 # Alex · 许炜
 
-Shanghai-based builder working across AI workflows, self-hosted infrastructure, and automation.
-常驻上海，主要折腾 AI 工作流、自建基础设施和自动化系统。
+Shanghai-based AI systems builder focused on practical automation, self-hosted infrastructure, and workflow design.
+常驻上海，专注于把 AI 工作流、自建基础设施和自动化系统做成真正能落地的生产力工具。
 
 ## Focus
 
-- Personal AI workflows with Claude, Gemini, and local tooling
-- Self-hosted infra with VPS, Raspberry Pi, xray, and Tailscale
-- News, research, and market-monitoring pipelines
-- Practical automation that saves time in day-to-day work
+- Personal AI systems built with Claude, Gemini, and local tooling
+- Self-hosted infrastructure with VPS, Raspberry Pi, xray, and Tailscale
+- Research and monitoring pipelines for news and markets
+- Practical automation that reduces repeated work
 
 ## Projects
 
