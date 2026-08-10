@@ -12,9 +12,8 @@ Shanghai-based AI systems builder focused on practical automation, self-hosted i
 
 ## Projects
 
-- [alex-resume](https://github.com/alexkyo06/alex-resume): bilingual resume site
-
-More projects will be cleaned up, documented, and published here over time.
+- [alex-resume](https://github.com/alexkyo06/alex-resume): bilingual resume site with synchronized English and Chinese CVs
+- [obsidian-wiki-compiler](https://github.com/alexkyo06/obsidian-wiki-compiler): PowerShell workflow that turns raw Obsidian notes into a structured wiki with Claude Code
 
 ## Links
 
